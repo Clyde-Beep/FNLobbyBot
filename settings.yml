@@ -1,0 +1,29 @@
+owners:
+ - Hyper_LS_Pleb
+
+status:
+  avatar: Meowscles
+  status: "Rock n Cat"
+
+commands:
+  prefix:
+    - "!"
+    - /
+  case_insensitive: true
+  only_owners: true
+
+friends:
+  invite_on_added: true
+  accept_all_requests: false
+  decline_all_requests: false
+  invite_on_startup: true
+  add_on_removed: false
+
+party:
+  dont_leave_if_owner_in_party: true
+  join_on_invite: true
+  join_if_party_is_empty: true
+  
+  add_all_members_on_join: true
+
+turn_on: true
